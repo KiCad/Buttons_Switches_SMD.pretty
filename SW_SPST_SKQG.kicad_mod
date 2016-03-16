@@ -1,6 +1,7 @@
 (module SW_SPST_SKQG (layer F.Cu) (tedit 56E0538F)
   (descr "ALPS 5.2mm Square Low-profile TACT Switch (SMD)")
   (tags "SPST Button Switch")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
