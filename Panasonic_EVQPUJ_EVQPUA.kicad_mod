@@ -1,4 +1,4 @@
-(module Panasonic_EVQPUJ_EVQPUA (layer F.Cu) (tedit 58EB467B)
+(module Panasonic_EVQPUJ_EVQPUA (layer F.Cu) (tedit 58EB4CA2)
   (descr http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf)
   (tags "SMD SMT SPST EVQPUJ EVQPUA")
   (attr smd)
@@ -28,9 +28,9 @@
   (fp_line (start 3.9 2.25) (end -3.9 2.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.9 -3.25) (end -3.9 -3.25) (layer F.CrtYd) (width 0.05))
   (pad 2 smd rect (at 2.625 0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at -2.625 0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -2.625 0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.625 -0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 2.625 -0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 2.625 -0.85 180) (size 1.55 1) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUJ_EVQPUA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
