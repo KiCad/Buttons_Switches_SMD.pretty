@@ -36,7 +36,7 @@
   (fp_line (start 5.8 -2.5) (end -5.8 -2.5) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -4.305 0) (size 2.44 1.12) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.305 0) (size 2.44 1.12) (layers F.Cu F.Paste F.Mask))
-  (model Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
+  (model {KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
