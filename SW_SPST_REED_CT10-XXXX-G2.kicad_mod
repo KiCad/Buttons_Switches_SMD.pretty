@@ -27,7 +27,7 @@
   (fp_line (start -10.5 1.75) (end 10.5 1.75) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -9.21 0) (size 2 2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 9.21 0) (size 2 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_SPST_REED_CT10-XXXX-G2.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_REED_CT10-XXXX-G2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

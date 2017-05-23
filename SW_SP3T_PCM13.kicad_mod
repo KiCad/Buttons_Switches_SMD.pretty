@@ -52,7 +52,7 @@
   (pad "" smd rect (at 5.15 1.605) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 5.15 -0.605) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -5.15 -0.605) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_SP3T_PCM13.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SP3T_PCM13.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

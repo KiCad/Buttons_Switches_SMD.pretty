@@ -29,7 +29,7 @@
   (pad 1 smd rect (at -1.7 0) (size 0.9 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.7 0) (size 0.9 1.7) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_SPST_B3U-1000P-B.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
