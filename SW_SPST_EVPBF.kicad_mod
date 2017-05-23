@@ -1,6 +1,6 @@
 (module SW_SPST_EVPBF (layer F.Cu) (tedit 59240009)
   (descr "Light Touch Switch")
-  (tags "")
+  (tags "SW SPST EVPBF")
   (attr smd)
   (fp_text reference REF** (at 0 -3.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
