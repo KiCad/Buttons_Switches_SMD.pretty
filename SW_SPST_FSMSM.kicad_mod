@@ -1,4 +1,4 @@
-(module SW_SPST_FSMSM (layer F.Cu) (tedit 58723FBE)
+(module SW_SPST_FSMSM (layer F.Cu) (tedit 59240009)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English)
   (tags "SPST button tactile switch")
   (attr smd)

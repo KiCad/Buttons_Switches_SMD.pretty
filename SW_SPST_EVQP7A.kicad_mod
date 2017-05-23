@@ -1,5 +1,6 @@
-(module SW_SPST_EVQP7A (layer F.Cu) (tedit 587247C4)
+(module SW_SPST_EVQP7A (layer F.Cu) (tedit 59240009)
   (descr "Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf")
+  (tags "")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

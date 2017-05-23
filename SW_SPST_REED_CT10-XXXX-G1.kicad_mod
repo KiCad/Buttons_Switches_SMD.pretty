@@ -1,4 +1,4 @@
-(module SW_SPST_REED_CT10-XXXX-G1 (layer F.Cu) (tedit 58724F9B)
+(module SW_SPST_REED_CT10-XXXX-G1 (layer F.Cu) (tedit 59240009)
   (descr "Coto Technologies SPST Reed Switch CT10-XXXX-G1")
   (tags "Coto Reed SPST Switch")
   (attr smd)

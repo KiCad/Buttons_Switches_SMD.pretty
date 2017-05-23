@@ -1,5 +1,6 @@
-(module SW_SPST_EVQP7C (layer F.Cu) (tedit 587247D8)
+(module SW_SPST_EVQP7C (layer F.Cu) (tedit 59240009)
   (descr "Light Touch Switch")
+  (tags "")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

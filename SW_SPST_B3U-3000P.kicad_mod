@@ -1,4 +1,4 @@
-(module SW_SPST_B3U-3000P (layer F.Cu) (tedit 58724352)
+(module SW_SPST_B3U-3000P (layer F.Cu) (tedit 59240009)
   (descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, without Boss")
   (tags "Tactile Switch")
   (attr smd)

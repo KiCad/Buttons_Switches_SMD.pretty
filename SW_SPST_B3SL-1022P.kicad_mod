@@ -1,4 +1,4 @@
-(module SW_SPST_B3SL-1022P (layer F.Cu) (tedit 587241B2)
+(module SW_SPST_B3SL-1022P (layer F.Cu) (tedit 59240009)
   (descr "Middle Stroke Tactile Switch, B3SL")
   (tags "Middle Stroke Tactile Switch")
   (attr smd)

@@ -1,4 +1,4 @@
-(module SW_SPST_TL3342 (layer F.Cu) (tedit 58724C2D)
+(module SW_SPST_TL3342 (layer F.Cu) (tedit 59240009)
   (descr "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
   (tags "SPST Tactile Switch")
   (attr smd)
