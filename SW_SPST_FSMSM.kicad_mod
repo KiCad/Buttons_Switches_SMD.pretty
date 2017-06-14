@@ -1,4 +1,4 @@
-(module SW_SPST_FSMSM (layer F.Cu) (tedit 58723FBE)
+(module SW_SPST_FSMSM (layer F.Cu) (tedit 59240009)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English)
   (tags "SPST button tactile switch")
   (attr smd)
@@ -33,7 +33,7 @@
   (fp_line (start -5.95 -2) (end 5.95 -2) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -4.59 0) (size 2.18 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.59 0) (size 2.18 1.6) (layers F.Cu F.Paste F.Mask))
-  (model Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

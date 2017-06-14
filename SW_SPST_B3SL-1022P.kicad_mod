@@ -1,4 +1,4 @@
-(module SW_SPST_B3SL-1022P (layer F.Cu) (tedit 587241B2)
+(module SW_SPST_B3SL-1022P (layer F.Cu) (tedit 59240009)
   (descr "Middle Stroke Tactile Switch, B3SL")
   (tags "Middle Stroke Tactile Switch")
   (attr smd)
@@ -32,4 +32,9 @@
   (pad 1 smd rect (at 2.88 -2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.88 2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.88 2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_B3SL-1022P.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

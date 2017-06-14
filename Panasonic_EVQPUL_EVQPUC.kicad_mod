@@ -1,4 +1,4 @@
-(module Panasonic_EVQPUL_EVQPUC (layer F.Cu) (tedit 58EB4E67)
+(module Panasonic_EVQPUL_EVQPUC (layer F.Cu) (tedit 59240009)
   (descr http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf)
   (tags "SMD SMT SPST EVQPUL EVQPUC")
   (attr smd)
