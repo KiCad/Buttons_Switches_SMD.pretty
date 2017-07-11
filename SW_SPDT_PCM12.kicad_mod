@@ -1,6 +1,4 @@
-(module SW_SPDT_PCM12
-  (layer F.Cu)
-  (tedit 58724DAF)
+(module SW_SPDT_PCM12 (layer F.Cu) (tedit 58724DAF)
   (descr "Ultraminiature Surface Mount Slide Switch")
   (attr smd)
   (fp_text reference REF** (at 0 -3.20) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))))
@@ -42,4 +40,10 @@
   (pad "" smd rect (at -3.65 1.43) (size 1 0.80) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 3.65 1.43) (size 1 0.80) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 3.65 -0.78) (size 1 0.80) (layers F.Cu F.Paste F.Mask))
-  (pad "" smd rect (at -3.65 -0.78) (size 1 0.80) (layers F.Cu F.Paste F.Mask)))
+  (pad "" smd rect (at -3.65 -0.78) (size 1 0.80) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPDT_PCM12.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
